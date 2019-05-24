@@ -9,8 +9,8 @@ Machine-Learning-with-Python
  * Olga Lukashenko <br> 
  * Shengchang Qiu <br> 
 
-* Group Project: <br> 
- * Introduction to Programming <br> 
- * Advanced Programming XCamp 2019 <br> 
- * Prof. Mario Silic <br> 
-* 24th May <br> 
+Group Project: <br> 
+Introduction to Programming <br> 
+Advanced Programming XCamp 2019 <br> 
+Prof. Mario Silic <br> 
+24th May <br> 
