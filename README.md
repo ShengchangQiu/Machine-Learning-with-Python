@@ -1,14 +1,15 @@
-# Machine-Learning-with-Python
+Machine-Learning-with-Python
+========
 
-# “Handwritten Digits Recognition using scikit-learn”
+“Handwritten Digits Recognition using scikit-learn”
 
-# Anja Spiess
-# Danni Zhai
-# Olga Lukashenko
-# Shengchang Qiu
+Anja Spiess \<br> 
+Danni Zhai \<br> 
+Olga Lukashenko \<br> 
+Shengchang Qiu \<br> 
 
-# Group Project:
-# Introduction to Programming/
-# Advanced Programming XCamp 2019
-# Prof. Mario Silic
-# 24th May
+Group Project: \<br> 
+Introduction to Programming/ \<br> 
+Advanced Programming XCamp 2019 \<br> 
+Prof. Mario Silic \<br> 
+24th May \<br> 
