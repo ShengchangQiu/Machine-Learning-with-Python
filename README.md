@@ -1,8 +1,5 @@
-Machine-Learning-with-Python
-========
-
-“Handwritten Digits Recognition using scikit-learn”
---------------
+# Machine-Learning-with-Python
+## “Handwritten Digits Recognition using scikit-learn”
 
  * Anja Spiess <br> 
  * Danni Zhai <br> 
